@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gautam Sinha
-- 👀 I’m interested in exploring technologies and integrating them
-- 🌱 I’m started my career as Java serverside engineer and am currently working on related technologies on devops, machine learning and microservices
-- 💞️ I’m looking to collaborate on sharing my learnings
+- 👀 I’m interested in exploring technologies, applying and integrating them
+- 🌱 I  started my career as Java serverside engineer and am currently working on related technologies on devops, machine learning and microservices in my capacity as a Senior Engineering Manager
+- 💞️ I am looking forward to collaborate on sharing my learnings
 - 📫 How to reach me - connect with me on Linkedin  https://www.linkedin.com/in/gautamsinha?_l=en_US
 
 <!---
